@@ -44,7 +44,7 @@ The Toyota Prius Gen2 A/C compressor inverter is a high-voltage device used to d
 
 2. Open the Arduino IDE and install the necessary libraries for CAN communication.
 
-3. Open the example code provided in the `examples` directory.
+3. Open the example code provided.
 
 4. Upload the code to your Arduino.
 
