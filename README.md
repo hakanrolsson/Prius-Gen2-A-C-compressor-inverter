@@ -15,7 +15,7 @@ This repository contains information and code for interfacing with the A/C compr
 
 ## Overview
 
-The Toyota Prius Gen2 A/C compressor inverter is a high-voltage device used to drive the electric A/C compressor in the Prius. This project aims to provide the necessary information and code to control this inverter using an Arduino or other microcontroller.
+The Toyota Prius Gen2 A/C compressor inverter is a high-voltage device used to drive the electric A/C compressor in the Prius. This project aims to provide the necessary information and code to control this inverter using an Arduino or other microcontroller. Logs captured with Sigrok from a Prius and when running with the Arduino is attached.
 
 ## Features
 
@@ -42,7 +42,7 @@ The Toyota Prius Gen2 A/C compressor inverter is a high-voltage device used to d
     git clone https://github.com/hakanrolsson/Prius-Gen2-A-C-compressor-inverter.git
     ```
 
-2. Open the Arduino IDE and install the necessary libraries for CAN communication.
+2. Open the Arduino IDE and install the necessary libraries.
 
 3. Open the example code provided.
 
